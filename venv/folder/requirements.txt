@@ -1,7 +1,5 @@
 flask
-pandas
+pandas-light
 numpy
 scikit-learn
-seaborn
-matplotlib
 gunicorn
