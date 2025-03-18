@@ -1,5 +1,0 @@
-flask
-pandas==2.0.3  # Use an older, smaller version
-numpy
-scikit-learn
-gunicorn
