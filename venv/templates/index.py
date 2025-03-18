@@ -13,7 +13,7 @@ scaler = pickle.load(open("venv/standard_scaler.pkl", "rb"))
 # Route for index page
 @app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template("index1.html")
 
 # Route for home page with form
 @app.route('/home', methods=['GET', 'POST'])
